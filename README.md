@@ -22,8 +22,11 @@ The VeriRISC model is a very-reduced-instruction-set processor coded in the Veri
     <img src="https://github.com/mohamedRaslan097/VeriRISC-CPU/assets/110209233/2e28c8f0-af17-4f8f-9dab-ca19543862bd" alt = "VeriRISC Simulation Waveforms">
 </p>
 
+
 ### Applied tests
 <p align = "center">
     <img src="https://github.com/mohamedRaslan097/VeriRISC-CPU/assets/110209233/74c1897a-d714-4c2c-9489-d40ea4228e01" alt = "VeriRISC Applied Tests">
 </p>
 
+## HOW TO NAVIGATE THROUGH THE PROJECT
+each folder contains the RTL code for each unit, it's test-bench and snipshots from the simulation of this testbenchs
